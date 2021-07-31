@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqOz6kbZLNQl6rxkR7+obUx5pkArmWT2QssVZgKSPNqV+8KYck8Ap3nGe2A9M0HqsRlaLK5EwI2ZkC1erMUs0g==",
+  "success": true,
+  "projectFilePath": "C:\\git\\Estudos\\TesteSerilog\\Testeserilog\\Testeserilog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.0.0\\microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.0.0\\microsoft.extensions.dependencymodel.3.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\2.0.0\\microsoft.extensions.options.configurationextensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\serilog.settings.configuration\\3.2.0-dev-00264\\serilog.settings.configuration.3.2.0-dev-00264.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\serilog.sinks.console\\4.0.0-dev-00839\\serilog.sinks.console.4.0.0-dev-00839.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\heloisa.mengisztki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
